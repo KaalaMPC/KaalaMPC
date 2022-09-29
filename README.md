@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @KaalaMPC
+- 👀 I’m a behavior analysis phd student storing my MPC code here
+- 🌱 I’m currently learning MPC
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
